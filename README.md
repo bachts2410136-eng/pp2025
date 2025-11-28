@@ -1,6 +1,6 @@
 # USTH Advanced Python 2025
 
-- Your student ID: Tran Son Bach
-- Your name: bachts2410136@usth.edu.vn
+- Your student ID: 2410136
+- Your name:  Tran Son Bach
 - Your class: DS
 
